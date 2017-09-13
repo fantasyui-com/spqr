@@ -1,6 +1,6 @@
 {
   "name": "spqr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webpage Design Generator",
   "main": "index.js",
   "scripts": {
