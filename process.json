@@ -1,0 +1,19 @@
+{
+  "apps": [
+
+    {
+
+    "name": "spqr",
+    "script":"server.js",
+    "cwd":"/home/spqr/spqr",
+
+    "env": {
+
+      "NAME" : "spqr",
+
+      }
+
+    }
+
+  ]
+}
