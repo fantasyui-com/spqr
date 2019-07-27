@@ -1,11 +1,9 @@
 {
   "name": "spqr",
-  "version": "2.0.0",
-
+  "version": "2.1.0",
   "scripts": {
     "generate": "cli.js generate"
   },
-
   "dependencies": {},
   "description": "Webpage Design Generator",
   "main": "index.js",
@@ -13,7 +11,12 @@
     "type": "git",
     "url": "git+https://github.com/fantasyui-com/spqr.git"
   },
-  "keywords":  ["web application", "code generator", "web design", "ui"],
+  "keywords": [
+    "web application",
+    "code generator",
+    "web design",
+    "ui"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
