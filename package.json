@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/fantasyui-com/spqr.git"
   },
-  "keywords":  ['web application', 'code generator', 'web design', 'ui'],
+  "keywords":  ["web application", "code generator", "web design", "ui"],
   "author": "",
   "license": "ISC",
   "bugs": {
