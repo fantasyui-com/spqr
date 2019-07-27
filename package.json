@@ -1,18 +1,23 @@
 {
   "name": "spqr",
-  "version": "0.5.0",
-  "private": true,
+  "version": "2.0.0",
+
   "scripts": {
-    "start": "node ./bin/www",
-    "debug": "DEBUG=spqr:* npm start"
+    "generate": "cli.js generate"
   },
-  "dependencies": {
-    "cookie-parser": "~1.4.4",
-    "debug": "~4.1.1",
-    "express": "~4.17.1",
-    "handlebars": "^4.1.2",
-    "hbs": "^4.0.4",
-    "http-errors": "~1.7.3",
-    "morgan": "~1.9.1"
-  }
+
+  "dependencies": {},
+  "description": "Webpage Design Generator",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/spqr.git"
+  },
+  "keywords":  ['web application', 'code generator', 'web design', 'ui'],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/spqr/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/spqr#readme"
 }
