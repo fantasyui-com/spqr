@@ -4,7 +4,10 @@
   "scripts": {
     "generate": "cli.js generate"
   },
-  "dependencies": {},
+  "dependencies": {
+    "commander": "^2.20.0",
+    "ensure-module": "^1.12.0"
+  },
   "description": "Webpage Design Generator",
   "main": "index.js",
   "repository": {
