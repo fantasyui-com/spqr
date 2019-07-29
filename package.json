@@ -6,9 +6,10 @@
   },
   "dependencies": {
     "commander": "^2.20.0",
-    "ensure-module": "^1.12.0"
+    "ensure-module": "^1.12.0",
+    "lodash": "^4.17.15"
   },
-  "description": "Webpage Design Generator",
+  "description": "Static Webpage Generator",
   "main": "index.js",
   "repository": {
     "type": "git",
