@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "action-toolkit": "^1.3.0",
-    "commander": "^2.20.0",
+    "commander": "^2.20.1",
     "ensure-module": "^1.12.0",
     "lodash": "^4.17.15"
   },
