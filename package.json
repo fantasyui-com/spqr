@@ -2,7 +2,8 @@
   "name": "spqr",
   "version": "2.8.0",
   "scripts": {
-    "generate": "cli.js generate"
+    "generate": "cli.js generate",
+    "save": "git add .; git commit -m 'New Release'; git push; npm version patch; npm publish; git push;"
   },
   "dependencies": {
     "action-toolkit": "^1.3.0",
@@ -22,7 +23,7 @@
     "web design",
     "ui"
   ],
-  "author": "",
+  "author": "fantasyui.com <fantasyui.com@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fantasyui-com/spqr/issues"
