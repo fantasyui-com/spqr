@@ -1,6 +1,6 @@
 {
   "name": "spqr",
-  "version": "2.23.0",
+  "version": "2.24.0",
   "scripts": {
     "generate": "cli.js generate",
     "save": "git add .; git commit -m 'New Release'; git push; npm version patch; npm publish; git push;"
